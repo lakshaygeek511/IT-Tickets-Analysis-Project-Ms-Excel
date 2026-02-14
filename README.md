@@ -46,13 +46,13 @@ This project performs an end-to-end data analysis on an IT support ticketing sys
 The raw data consists of **two sheets**:
 
 ### 🎟️ Tickets Sheet — 11 Attributes
-| Attribute | Description |
-|---|---|
+| Attribute | Description | Attribute | Description |
+|---|---|---|---|
 | Ticket ID | Unique identifier for each support ticket || Employee ID | ID of the employee who raised the ticket |
+| Issue Date | Date when the ticket was raised || Agent ID | ID of the agent who handled the ticket |
 | Request Category | Category of the issue (Hardware, Login Access, Software, System) || Issue Type | Type of issue (IT Error / IT Request) |
-| Severity | Severity level combined with type || Priority | Priority level combined with type || Issue Date (`Fecha`) | Date when the ticket was raised *(originally mislabelled)* |
-| Agent ID | ID of the agent who handled the ticket || Resolution Time | Days taken to resolve the ticket |
-| Satisfaction Rate | Employee's satisfaction rating || Age | Age of the employee |
+| Severity | Severity level combined with type || Priority | Priority level combined with type |
+| Resolution Time | Days taken to resolve the ticket || Satisfaction Rate | Employee's satisfaction rating |
 
 ### 🧑‍💼 IT Agents Sheet — 7 Attributes
 | Attribute | Description |
