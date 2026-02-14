@@ -69,8 +69,8 @@ The raw data consists of **two sheets**:
 
 | Issue Found | Details | Count | Fix Applied |
 |---|---|---|---|
-| Inconsistent `Severity` column | Splitted to `Severity` + `Severity Type` | 97,498 | Text to Columns |
-| Inconsistent `Priority` column | Splitted to `Priority` + `Priority Type` | 97,498 | Text to Columns |
+| Inconsistent `Severity` col | Split to `Severity` + `Severity Type` | 97,498 | Text to Columns |
+| Inconsistent `Priority` col | Split to `Priority` + `Priority Type` | 97,498 | Text to Columns |
 | Misspelled "Unassigned" in Priority Type | Corrected via Find & Replace | 29,410 | Find & Replace |
 | Misspelled "Major" in Priority Type | Corrected via Find & Replace | 4,836 | Find & Replace |
 | Misspelled "Unclassified" in Severity Type | Corrected via Find & Replace | 356 | Find & Replace |
