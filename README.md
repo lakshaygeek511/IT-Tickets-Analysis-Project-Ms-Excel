@@ -13,21 +13,6 @@
 
 </div>
 
-## 📋 Table of Contents
-
-- [Problem Statement](#-problem-statement)
-- [Project Overview](#-project-overview)
-- [Dataset Description](#-dataset-description)
-- [Data Cleaning & Preprocessing](#-data-cleaning--preprocessing)
-- [Dashboard Overview](#-dashboard-overview)
-- [Key Findings & Insights](#-key-findings--insights)
-- [Agent Performance Analysis](#-agent-performance-analysis)
-- [Project Structure](#-project-structure)
-- [Tools & Technologies](#️-tools--technologies)
-- [How to Use](#-how-to-use)
-
----
-
 ## 🎯 Problem Statement
 
 > You are tasked with analyzing the IT support ticket management system to understand the **performance of IT agents**, the **efficiency of ticket resolution**, and the **satisfaction levels of employees**.
