@@ -7,7 +7,7 @@
 
 # 🎫 Call Center IT Tickets Analysis
 
-### *A comprehensive data analysis project on Call Center IT Support Ticket Management, Agent Performance & Resolution Time, Customer Satisfaction with a comprehensive Dashboard of analysis & business evaluation.
+### A comprehensive data analysis project on Call Center IT Support Ticket Management, Agent Performance & Resolution Time, Customer Satisfaction with a comprehensive Dashboard of analysis & business evaluation.
 
 ---
 
