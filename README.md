@@ -7,7 +7,7 @@
 
 # 🎫 Call Center IT Tickets Analysis
 
-### A comprehensive data analysis project on Call Center IT Support Ticket Management, Agent Performance & Resolution Time, Customer Satisfaction with a comprehensive Dashboard of  business analysis & evaluation.
+### A comprehensive data analysis project on Call Center IT Support Ticket Management, Agent Performance & Resolution Time & Customer Satisfaction.
 
 ---
 
@@ -48,17 +48,11 @@ The raw data consists of **two sheets**:
 ### 🎟️ Tickets Sheet — 11 Attributes
 | Attribute | Description |
 |---|---|
-| Ticket ID | Unique identifier for each support ticket |
-| Employee ID | ID of the employee who raised the ticket |
-| Request Category | Category of the issue (Hardware, Login Access, Software, System) |
-| Issue Type | Type of issue (IT Error / IT Request) |
-| Severity | Severity level combined with type |
-| Priority | Priority level combined with type |
-| Issue Date (`Fecha`) | Date when the ticket was raised *(originally mislabelled)* |
-| Agent ID | ID of the agent who handled the ticket |
-| Resolution Time | Days taken to resolve the ticket |
-| Satisfaction Rate | Employee's satisfaction rating |
-| Age | Age of the employee |
+| Ticket ID | Unique identifier for each support ticket || Employee ID | ID of the employee who raised the ticket |
+| Request Category | Category of the issue (Hardware, Login Access, Software, System) || Issue Type | Type of issue (IT Error / IT Request) |
+| Severity | Severity level combined with type || Priority | Priority level combined with type || Issue Date (`Fecha`) | Date when the ticket was raised *(originally mislabelled)* |
+| Agent ID | ID of the agent who handled the ticket || Resolution Time | Days taken to resolve the ticket |
+| Satisfaction Rate | Employee's satisfaction rating || Age | Age of the employee |
 
 ### 🧑‍💼 IT Agents Sheet — 7 Attributes
 | Attribute | Description |
