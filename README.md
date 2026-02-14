@@ -48,10 +48,10 @@ The raw data consists of **two sheets**:
 ### 🎟️ Tickets Sheet — 10 Attributes
 | Attribute | Description | Attribute | Description |
 |---|---|---|---|
-| Ticket ID | Unique identifier for support ticket | Employee ID | ID of employee raising ticket |
+| Ticket ID | Unique identifier for ticket | Employee ID | ID of employee raising ticket |
 | Fecha | Date when the ticket was raised | Agent ID | ID of agent handling ticket |
 | Request Category | Category of the issue | Issue Type | Type of issue |
-| Severity | Severity level combined with type | Priority | Priority level combined with type |
+| Severity | Severity level with type | Priority | Priority level with type |
 | Resolution Time | Days to resolve ticket | Satisfaction Rate | Employee's satisfaction rating |
 
 ### 🧑‍💼 IT Agents Sheet — 6 Attributes
