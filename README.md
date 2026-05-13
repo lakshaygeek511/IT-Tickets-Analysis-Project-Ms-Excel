@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/Data%20Analysis-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Analysis"/>
 <img src="https://img.shields.io/badge/Dashboard-FF6F00?style=for-the-badge&logo=grafana&logoColor=white" alt="Dashboard"/>
 
-# 🎫 Call Center IT Tickets Analysis
+# 🎫 Telecom Center IT Tickets Analysis
 
-### A comprehensive data analysis project on Call Center IT Support Ticket Management, Agent Performance & Resolution Time & Customer Satisfaction.
+### A comprehensive data analysis project on Telecom Center IT Support Ticket Management, Agent Performance & Resolution Time & Customer Satisfaction.
 
 ---
 
